@@ -1,0 +1,48 @@
+# Outline
+
+
+## Introduction
+
+- What is the problem?
+  - Best practices 
+    - individual researcher level
+    - new practices, difficult for people to keep up
+    - training at the point needed, relevant to your practice
+  - Meta-scientific
+    - information locked away in PDFs
+    - difficult to systematically extract it
+    - making everything FAIR, not just data
+- Other cross-cutting issues
+  - Structured metatdata
+    - Why is it important?
+    - What is already out there?
+  - Tools
+    - too many things to check (pubpeer, zotero, retractionwatch, reporting guidelines)
+    - need a modular system
+    - differences by field, journal, etc.
+- What is a solution?
+  - Structured metadata
+    - hard to get people to create from scratch
+    - extract it flexibly from PDFs
+    - examples: references, effect sizes, power analyses, hypotheses
+    - table of X categories of metadata use
+    - Problems this can solve
+      - checking reporting guidelines
+      - incorporating external info (RW, CiteAI, PubPeer)
+      - internal inconsistency error detection (statcheck)
+      - literature search / metascientific questions
+    
+## Introducing PaperCheck
+    
+- Community-extendable modules
+  - text match
+  - code
+  - machine learning
+  - AI
+
+## Where to go from here
+
+- Concrete use cases
+  - integrate with external databases (e.g., retractionwatch)
+  - journal editor checks for adherence to publication guidelines
+  
